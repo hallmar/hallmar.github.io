@@ -5,6 +5,4 @@ title: Hallmar Gauti Halldórsson's Github website
 author_name:        "Hallmar Gauti Halldórsson"
 logo_url: https://avatars0.githubusercontent.com/u/38192440?v=4
 
-baseurl:            /Hallmar
-permalink:          /:title # Post permalink
 timezone:           Iceland # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
