@@ -1,2 +1,4 @@
-theme: jekyll-theme-modernist
+plugins:
+  - jekyll-remote-theme
+remote_theme: heiswayi/the-plain
 title: Hallmar Gauti Halldórsson's Github website
