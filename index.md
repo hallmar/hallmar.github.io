@@ -1,3 +1,5 @@
-## Welcome to my github page
+## My projects
 
-# Helló
+# Fjöl - Polyphonic synthesizer
+
+# IOT platform for the University of Ravensburg Weingarten
