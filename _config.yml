@@ -2,6 +2,6 @@
 title: My projects
 logo: https://avatars0.githubusercontent.com/u/38192440?v=4
 description: Hallmar Gauti Halldórsson
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minima
