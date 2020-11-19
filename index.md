@@ -2,7 +2,7 @@
 layout: default
 ---
 # **My Projects**
-
+---
 ## Fjöl - Polyphonic Synthesizer(2020)
 ---
 ![Fjöl Synthesizer front panel](/assets/img/fjöl.png "Fjöl synthesizer front panel")
