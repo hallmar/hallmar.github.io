@@ -7,7 +7,7 @@ layout: default
 
 <h2> Fjöl - Polyphonic Synthesizer(2020)
 <hr> 
-This is a project that is simply a 4 voice polyphonic synthesizer.
+<p>This is a project that is simply a 4 voice polyphonic synthesizer.
 <img src="/assets/img/fjöl.png" alt="Fjöl frontpanel">
 
 
