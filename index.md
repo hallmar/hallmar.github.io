@@ -3,7 +3,7 @@ layout: default
 ---
 # __My Projects__
 
-<hr style="border:4px black">
+<hr style="border:4px color: black"> 
 
 ## __Fjöl - Polyphonic Synthesizer(2020)__
 ---
