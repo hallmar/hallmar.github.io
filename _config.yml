@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hallmar Gauti Halldórsson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Electronic musician and electrical engineer"
+  location         : "Reykjavík, Iceland"
+  email            : "halligauti@hotmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
