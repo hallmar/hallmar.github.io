@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 ## [Fjöl - Polyphonic synthesizer](https://github.com/hallmar/Eurorack-Modules/tree/master/Fj%C3%B6l)
 ***
