@@ -1,5 +1,7 @@
-theme: jekyll-theme-minimal
+
 title: My projects
-show_downloads: true
-description: Hallmar Gauti Halldórsson
 logo: https://avatars0.githubusercontent.com/u/38192440?v=4
+description: Hallmar Gauti Halldórsson
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minima
