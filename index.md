@@ -4,14 +4,13 @@ layout: default
 <h1> My Projects
 
 <hr> 
-
-## __Fjöl - Polyphonic Synthesizer(2020)__
+<h2> Fjöl - Polyphonic Synthesizer(2020)
 ---
 ![Fjöl Synthesizer front panel](/assets/img/fjöl.png "Fjöl synthesizer front panel")
 
-## __Tvinna - 2 channel USB audio interface(2019)__
+<h2> Tvinna - 2 channel USB audio interface(2019)
 ---
 
 
-## __IOT platform for the University Of Ravensburg Weingarten(2019)__
+<h2> IOT platform for the University Of Ravensburg Weingarten(2019)
 ---
