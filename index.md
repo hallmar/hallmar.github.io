@@ -4,6 +4,7 @@ layout: default
 <h1> My Projects
 
 <hr> 
+
 <h2> Fjöl - Polyphonic Synthesizer(2020)
 ---
 ![Fjöl Synthesizer front panel](/assets/img/fjöl.png "Fjöl synthesizer front panel")
