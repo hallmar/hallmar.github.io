@@ -11,8 +11,9 @@ layout: default
 <img src="/assets/img/fjöl.png" alt="Fjöl frontpanel">
 
 
-
-
+<h2> 4 input 6 output audio processor
+<hr>
+  
 <h2> Tvinna - 2 channel USB audio interface (2019)
 <hr> 
 
