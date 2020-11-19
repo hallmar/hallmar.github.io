@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# __My Projects__
+<h1> My Projects <\h1>
 
 <hr> 
 
