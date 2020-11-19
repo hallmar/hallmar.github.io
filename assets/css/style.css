@@ -7,7 +7,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#e1e1e1;
+  color:#d6d6d6;
   margin:0 0 20px;
 }
 
@@ -32,6 +32,10 @@ h2 {
 h3, h4, h5, h6 {
   color:#e1e1e1;
   font-weight: 500;
+}
+
+hr.new {
+  color: #909090;
 }
 
 a {
