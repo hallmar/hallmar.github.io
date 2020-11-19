@@ -13,13 +13,13 @@ layout: default
 <h2> 4 input 6 output audio processor
 <hr>
   
-<h2> Tvinna - 2 channel USB audio interface (2019)
+<h2> <a href="https://github.com/hallmar/Eurorack-Modules/tree/master/Tvinna">Tvinna - 2 channel USB audio interface (2019)</a> 
 <hr> 
 
 
 
 
-<h2> IOT platform for the University Of Ravensburg Weingarten (2019)
+<h2> <a href="https://github.com/hallmar/IOT-Platform">IOT platform for the University Of Ravensburg Weingarten (2019)</a>
 <hr> 
  
 
