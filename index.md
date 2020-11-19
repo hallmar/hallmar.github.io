@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-# Tvöfalt - 2 channel USB audio interface
+# Tvinna - 2 channel USB audio interface
 ---
 
 
