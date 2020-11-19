@@ -1,3 +1,3 @@
-## >Fjöl - Polyphonic synthesizer
+>Fjöl - Polyphonic synthesizer
 
-## >IOT platform for the University of Ravensburg Weingarten
+>IOT platform for the University of Ravensburg Weingarten
