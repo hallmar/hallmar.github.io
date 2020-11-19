@@ -1,6 +1,6 @@
 plugins:
   - jekyll-remote-theme
-remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+remote_theme: heiswayi/the-plain
 title: "My projects"
 author_name:        "Hallmar Gauti Halldórsson"
 logo_url: https://avatars0.githubusercontent.com/u/38192440?v=4
