@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1> My Projects
-<hr class="new">
+<hr class="new1">
 
 <h2> Fjöl - Polyphonic Synthesizer(2020)
 <hr> 
