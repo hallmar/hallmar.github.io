@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# My Projects
+# **My Projects**
 
 ## Fjöl - Polyphonic Synthesizer(2020)
 ---
