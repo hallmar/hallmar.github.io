@@ -1,18 +1,1 @@
-plugins:
-  - jekyll-remote-theme
-remote_theme: heiswayi/the-plain
-title: "My projects"
-author_name:        "Hallmar Gauti Halldórsson"
-logo_url: https://avatars0.githubusercontent.com/u/38192440?v=4
-
-timezone:           Iceland # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-mathjax:            true  # enables support for mathjax - set to 'false' to disable
-# Site Build
-highlighter:        rouge
-markdown:           kramdown
-kramdown:
-    input:          GFM
-sass:
-    style:          :compressed
-
 theme: jekyll-theme-minimal
