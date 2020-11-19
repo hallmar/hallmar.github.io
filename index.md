@@ -8,7 +8,8 @@ layout: default
 
 <h2> Fjöl - Polyphonic Synthesizer(2020)
 <hr> 
- 
+  
+<img src="/assets/img/fjöl.png" alt="Fjöl frontpanel">
 
 
 
