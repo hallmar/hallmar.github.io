@@ -21,7 +21,7 @@ layout: default
 
 <h2> <a href="https://github.com/hallmar/IOT-Platform">IOT platform for the University Of Ravensburg Weingarten (2019)</a>
 <hr> 
-<img src="/assets/img/fIMG_2385.JPG" alt="Microcontroller board">
+<img src="/assets/img/IMG_2385.JPG" alt="Microcontroller board">
 <img src="/assets/img/IMG_2386.JPG" alt="Battery charging board ">
 <img src="/assets/img/img_2389.jpg" alt="Human interface board">
 <img src="/assets/img/img_2388.jpg" alt="Whole platform with frontpanel">
