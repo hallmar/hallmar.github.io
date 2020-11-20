@@ -37,7 +37,7 @@ h3, h4, h5, h6 {
   font-size: 12px;
 }
 
-hr.new1 {
+.titleline{
   border: 3px dotted;
   width: 60%;
   margin-left: auto;
