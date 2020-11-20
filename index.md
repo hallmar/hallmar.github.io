@@ -11,7 +11,7 @@ layout: default
 <img src="/assets/img/fjöl.png" alt="Fjöl frontpanel">
 
 
-<h2> Vinnsla - 4 input 6 output audio processor (Work in progress)
+<h2> Vinnsla - 4 input 6 output audio processor (WIP)
 <hr>
 <h3>   <a href="https://github.com/hallmar/Vinnsla-Audio-processor" target="_blank" >View Github Repo</a>
 <img src="/assets/img/Screenshot 2020-11-20 at 21.41.37.png" alt="Fjöl frontpanel">
