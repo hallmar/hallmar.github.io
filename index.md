@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1> My Projects
-<hr style="border-width: 4px;">
+<hr style="border-width: 6px;">
 
 
 <h2> Fjöl - Polyphonic Synthesizer (2020)
