@@ -12,11 +12,12 @@ layout: default
 
 <h2> <a href="https://github.com/hallmar/Vinnsla-Audio-processor">Vinnsla - 4 input 6 output audio processor (Work in progress)</a>
 <hr>
-  
+<img src="/assets/img/Screenshot 2020-11-20 at 21.41.37.png" alt="Fjöl frontpanel">
+
 <h2> <a href="https://github.com/hallmar/Eurorack-Modules/tree/master/Tvinna">Tvinna - 2 channel USB audio interface (2019)</a> 
 <hr> 
 
-
+<img src="/assets/img/Screenshot 2020-11-20 at 21.40.47.png" alt="Fjöl frontpanel">
 
 
 <h2> <a href="https://github.com/hallmar/IOT-Platform">IOT platform for the University Of Ravensburg Weingarten (2019)</a>
