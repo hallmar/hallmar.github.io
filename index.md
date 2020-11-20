@@ -2,9 +2,11 @@
 layout: default
 ---
 
-<hr>
-<h1> My Projects
-<hr>
+<table style="width:100%; border: 1px solid black;">
+  <tr>
+    <th><h1> My Projects </th>
+  </tr>
+</table>
 
 
 <h2> Fjöl - Polyphonic Synthesizer (2020)
