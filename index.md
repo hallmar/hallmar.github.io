@@ -5,8 +5,9 @@ layout: default
 <h1> My Projects
 <hr class="new1">
 
-<h2> <a href="https://github.com/hallmar/Eurorack-Modules/tree/master/Fj%C3%B6l" target="_blank">Fjöl - Polyphonic synthesizer</a>
+<h2> 
 <hr> 
+<h3> <a href="https://github.com/hallmar/Eurorack-Modules/tree/master/Fj%C3%B6l" target="_blank">Github Repo</a>
 <img src="/assets/img/fjöl.png" alt="Fjöl frontpanel">
 
 
