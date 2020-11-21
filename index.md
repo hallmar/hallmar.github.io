@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<hr>
 <h1> My Projects
 <h1> <hr style="border-width: 10px;">
 
