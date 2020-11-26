@@ -36,5 +36,7 @@ layout: default
 <h3> <a href="https://github.com/hallmar/Eurorack-Modules/tree/master/Polyg%20v2" target="_blank" >View Github Repo</a>
   <br>
 <img src="/assets/img/polyg.jpg" alt="Polyg">
+  
+  [![](http://img.youtube.com/vi/QhJZFhLLbBc/0.jpg)](http://www.youtube.com/watch?v=QhJZFhLLbBc "Polyg demo")
 
 
