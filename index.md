@@ -37,7 +37,7 @@ layout: default
   <br>
 <img src="/assets/img/polyg.jpg" alt="Polyg">
   
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
+Demo video:
+https://www.youtube.com/embed/tgbNymZ7vqY
 
 
