@@ -31,4 +31,9 @@ layout: default
 <img src="/assets/img/img_2389.jpg" alt="Human interface board">
 <img src="/assets/img/img_2388.jpg" alt="Whole platform with frontpanel">
 
+<h2> Polyg - Polyphonic synthesizer (2018)
+<hr> 
+<h3> <a href="https://github.com/hallmar/Eurorack-Modules/tree/master/Polyg%20v2" target="_blank" >View Github Repo</a>
+<img src="Eurorack-Modules/Polyg v2/images/polyg.jpg" alt="Polyg">
+
 
