@@ -34,6 +34,7 @@ layout: default
 <h2> Polyg - Polyphonic synthesizer (2018)
 <hr> 
 <h3> <a href="https://github.com/hallmar/Eurorack-Modules/tree/master/Polyg%20v2" target="_blank" >View Github Repo</a>
+  <br>
 <img src="/assets/img/polyg.jpg" alt="Polyg">
 
 
