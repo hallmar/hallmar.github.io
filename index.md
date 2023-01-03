@@ -5,7 +5,7 @@ layout: default
 <h1> <hr style="border-width: 10px;">
 
 
-<h2> Fjöl - Polyphonic Synthesizer (2020)
+<h2> Fjöl - Polyphonic Synthesizer (WIP)
 <hr>
 <h3> <a href="https://github.com/hallmar/Eurorack-Modules/tree/master/Fj%C3%B6l" target="_blank">View Github Repo</a>
 <img src="/assets/img/fjöl.jpg" alt="Fjöl frontpanel">
